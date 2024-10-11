@@ -202,6 +202,3 @@ Authorization: Bearer &lt;JWT_TOKEN&gt;
   <li><strong>Pagination</strong>: Add pagination for listing assignments when the admin retrieves them.</li>
   <li><strong>Assignment Comments</strong>: Allow admins to leave comments or feedback on assignments.</li>
 </ul>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
